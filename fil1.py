@@ -1,5 +1,6 @@
 print('hello, world')
 print('hello brothers')
 print('yuvit')
+
 print("ISHAAN!")
-a = 0
+a = 10 
